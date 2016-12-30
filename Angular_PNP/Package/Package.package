@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="a954593a-88fe-49ce-9832-fe6e4635e1d2" 
+        solutionId="a954593a-88fe-49ce-9832-fe6e4635e1d2" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Angular_PNP"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="94dff3e1-417e-4637-a9b6-1dc0922119d2" />
+  </features>
+</package>
